@@ -1,0 +1,63 @@
+[
+  {
+    "category": "Dogs",
+    "items": [
+      {
+        "id": 1,
+        "name": "Dog Food",
+        "price": 20.99
+        
+      },
+      {
+        "id": 2,
+        "name": "Dog Toy",
+        "price": 9.99
+      },
+      {
+        "id": 3,
+        "name": "Dog Bed",
+        "price": 39.99
+      }
+    ]
+  },
+  {
+    "category": "Cats",
+    "items": [
+      {
+        "id": 4,
+        "name": "Cat Food",
+        "price": 18.99
+      },
+      {
+        "id": 5,
+        "name": "Cat Toy",
+        "price": 7.99
+      },
+      {
+        "id": 6,
+        "name": "Cat Bed",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "category": "Birds",
+    "items": [
+      {
+        "id": 7,
+        "name": "Bird Food",
+        "price": 12.99
+      },
+      {
+        "id": 8,
+        "name": "Bird Toy",
+        "price": 5.99
+      },
+      {
+        "id": 9,
+        "name": "Bird Cage",
+        "price": 49.99
+      }
+    ]
+  }
+]
